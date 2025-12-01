@@ -1,3 +1,5 @@
+//Write a program to calculate the area and circumference of a circle given its radius.
+
 #include <stdio.h>
 
 #define PI 3.14159
@@ -12,3 +14,4 @@ int main() {
     printf("Circumference = %.2f\n", circumference);
     return 0;
 }
+
